@@ -80,6 +80,7 @@ Microsoft provides a wealth of structured courses, official documentation, and p
 * [**Google - Generative AI Learning Path**](https://www.cloudskillsboost.google/paths/118) - **Official Google Cloud learning path**. It offers a series of courses on Generative AI fundamentals, large language models, and the Google Cloud AI platform.
 * [**AWS - Generative AI Learning Plan for Developers**](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1743/generative-ai-learning-plan-for-developers) - **AWS developer learning plan**. It includes 10 courses from beginner to advanced, designed to help developers learn to build and deploy generative AI applications on AWS.
 * [**OpenAI Cookbook**](https://github.com/openai/openai-cookbook) - **Official OpenAI practice guide**. It provides numerous runnable code examples that demonstrate best practices for completing common tasks with the OpenAI API.
+* [**Anthropic Cookbook**](https://github.com/anthropics/anthropic-cookbook/) - **Official hands-on guide**. Contains extensive code examples, best practices, and tutorials for building with Claude and Anthropic APIs.
 * [**Meta Llama Cookbook**](https://github.com/meta-llama/llama-cookbook) - **Official Meta Llama hands-on guide**. This repo contains various code examples for inference, fine-tuning, and building RAG applications with Llama models.
 
 ## 🛠️ Emerging AI Tools & Platforms
