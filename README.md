@@ -40,36 +40,47 @@ Before diving into code, it's crucial to understand the core ideas that drive LL
 
 Build a solid knowledge base with systematic, university-level courses.
 
-### Theory & Practice Courses
-
 * [**Stanford CS224n: NLP with Deep Learning**](https://web.stanford.edu/class/cs224n/) - **Stanford University's flagship NLP course**. It comprehensively covers everything from traditional NLP to the latest Transformers and LLMs.
-* [**Microsoft - Generative AI for Beginners**](https://microsoft.github.io/generative-ai-for-beginners/) - **An official Microsoft course**. It includes 12 lessons and is a practical tutorial on Generative AI designed for beginners, using both Python and TypeScript.
 * [**LLMs from Scratch by Sebastian Raschka**](https://github.com/rasbt/LLMs-from-scratch/) - A course/book on building a large language model from scratch. It offers in-depth theoretical explanations and detailed code implementations, making it an excellent resource for understanding the underlying principles.
 * [**LLM Course by Maxime Labonne**](https://github.com/mlabonne/llm-course) - A GitHub-based, hands-on LLM course that provides a clear roadmap and numerous Colab notebooks.
-
-### DeepLearning.AI Short Course Series
-
-A series of free, concise courses from Andrew Ng's team and industry experts (OpenAI, LangChain, etc.), focused on quickly mastering specific skills.
-
-* [**DeepLearning.AI - Generative AI Courses**](https://www.deeplearning.ai/courses/generative-ai/) - The official list of courses, covering everything from "GenAI for Everyone" to Prompt Engineering, LangChain, Diffusion Models, and more.
 
 ## 🏢 Corporate Learning Hubs
 
 Get authoritative learning resources and best practices directly from the companies building these technologies.
 
-### Official Learning Portals
+### DeepLearning.AI Short Courses
 
-* [**Google - Generative AI Learning Path**](https://www.cloudskillsboost.google/paths/118) - **Official Google Cloud learning path**. It offers a series of courses on Generative AI fundamentals, large language models, and the Google Cloud AI platform, serving as the starting point for learning Gemini and Vertex AI.
-* [**Microsoft - AI Learning and Community Hub**](https://learn.microsoft.com/en-us/ai/) - **Microsoft Learn AI Center**. This hub consolidates all of Microsoft's AI learning resources, including documentation, tutorials, and learning paths, all closely tied to Azure AI and OpenAI services.
+A collection of free, concise courses from Andrew Ng's team and industry experts (OpenAI, LangChain, etc.), focused on quickly mastering a specific skill.
+
+* [**Generative AI for Everyone**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) - A non-technical introduction to Generative AI, its potential, and its value proposition.
+* [**ChatGPT Prompt Engineering for Developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Learn prompt engineering best practices for application development.
+* [**LangChain for LLM Application Development**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - Learn the fundamentals of the LangChain framework to build powerful applications.
+* [**LangChain: Chat with Your Data**](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) - Focused on building Retrieval-Augmented Generation (RAG) applications with LangChain.
+* [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) - Learn how to chain multiple prompts together to build complex systems.
+* [**Finetuning Large Language Models**](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) - Learn when to apply finetuning and how to do it effectively.
+* [**How Diffusion Models Work**](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) - A deep dive into the principles behind text-to-image models like Stable Diffusion.
+* [**Vector Databases: from Embeddings to Applications**](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/) - Learn the core concepts of vector databases and their application in semantic search and RAG.
+
+### Microsoft AI & LLM Resources
+
+Microsoft provides a wealth of structured courses, official documentation, and practical code samples through its Learn platform and GitHub organizations.
+
+* **Official Learning Paths & Documentation**:
+    * [**Microsoft Learn AI Hub**](https://learn.microsoft.com/en-us/ai/) - The central hub for all of Microsoft's AI learning resources, including documentation, tutorials, and certification paths for Azure AI and OpenAI services.
+    * [**Azure AI Fundamentals**](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/) - The official learning path for the AI-900 certification, covering core AI and machine learning concepts on Azure.
+
+* **GitHub Repositories & Courses**:
+    * [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) - A comprehensive, 18-lesson course on Generative AI, created by Microsoft developers.
+    * [**azure-search-openai-demo**](https://github.com/Azure-Samples/azure-search-openai-demo) - A premier reference implementation for the RAG pattern using Azure AI Search and Azure OpenAI.
+    * [**Semantic Kernel**](https://github.com/microsoft/semantic-kernel) - Microsoft's open-source LLM orchestration SDK, an alternative to LangChain, for building agents and planners.
+    * [**Microsoft/AI**](https://github.com/microsoft/AI) - A central index repository that categorizes and links to a large number of Microsoft's open-source AI samples and best practices.
+
+### Other Corporate Hubs
+
+* [**Google - Generative AI Learning Path**](https://www.cloudskillsboost.google/paths/118) - **Official Google Cloud learning path**. It offers a series of courses on Generative AI fundamentals, large language models, and the Google Cloud AI platform.
 * [**AWS - Generative AI Learning Plan for Developers**](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1743/generative-ai-learning-plan-for-developers) - **AWS developer learning plan**. It includes 10 courses from beginner to advanced, designed to help developers learn to build and deploy generative AI applications on AWS.
-
-### GitHub Repos & Cookbooks
-
-* [**OpenAI Cookbook**](https://github.com/openai/openai-cookbook) - **Official OpenAI practice guide**. It provides numerous runnable code examples that demonstrate best practices for completing common tasks with the OpenAI API. A must-have for developers.
-* [**Meta Llama Cookbook**](https://github.com/meta-llama/llama-cookbook) - **Official Meta Llama hands-on guide**. Similar to the OpenAI Cookbook, this repo contains various code examples for inference, fine-tuning, and building RAG applications with Llama models.
-* [**Microsoft AI on GitHub**](https://github.com/microsoft/AI) - **Microsoft AI samples overview**. An index repository that categorizes and links to a large number of open-source AI samples, reference architectures, and best practices from Microsoft.
-* [**AWS Samples on GitHub**](https://github.com/aws-samples?q=machine-learning) - **Official AWS code samples library**. This link directs to all machine learning-related projects within AWS's vast collection of samples, making it a treasure trove for finding practice code for specific scenarios.
-* [**PyTorch Tutorials & Examples**](https://github.com/pytorch/tutorials) - **Official PyTorch tutorials**. As one of the two major deep learning frameworks, PyTorch's official tutorials are fundamental for learning model building, training, and deployment.
+* [**OpenAI Cookbook**](https://github.com/openai/openai-cookbook) - **Official OpenAI practice guide**. It provides numerous runnable code examples that demonstrate best practices for completing common tasks with the OpenAI API.
+* [**Meta Llama Cookbook**](https://github.com/meta-llama/llama-cookbook) - **Official Meta Llama hands-on guide**. This repo contains various code examples for inference, fine-tuning, and building RAG applications with Llama models.
 
 ## 🛠️ Emerging AI Tools & Platforms
 
@@ -97,8 +108,6 @@ These companies and tools are defining the development paradigm for modern AI ap
 
 ## 💻 General Tools & Frameworks
 
-*(Note: This section retains core tools; specific application frameworks are in the section above)*
-
 * [**Hugging Face Transformers**](https://huggingface.co/docs/transformers/index) - **The absolute core**. It is a complete ecosystem providing a massive number of pre-trained models, datasets, and tools.
 * [**PyTorch**](https://pytorch.org/) / [**TensorFlow**](https://www.tensorflow.org/) - Mainstream deep learning frameworks, fundamental for understanding model fine-tuning and underlying research.
 
@@ -109,16 +118,16 @@ Visual learning materials can significantly accelerate understanding.
 ### Coding & Implementation
 
 * [**Andrej Karpathy - "Let's build GPT" Series**](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) - **A must-watch series**.
-    * **[Let's build GPT](https://www.youtube.com/watch?v=mMa2PmYJlCo2)** - The ultimate hands-on tutorial for understanding the internal mechanics of a Transformer by building a mini-GPT from scratch.
-    * **[Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=mMa2PmYJlCo3)** - The sister video to the series, building a BPE tokenizer from scratch and completing the most fundamental piece of the LLM puzzle.
-* [**Sebastian Raschka - Build an LLM From Scratch**](https://www.youtube.com/watch?v=mMa2PmYJlCo4) - The official video tutorial from the author of "LLMs from Scratch," explaining the complete process of building a small LLM in a solid, systematic way.
+    * [**Let's build GPT**](https://www.youtube.com/watch?v=mMa2PmYJlCo9) - The ultimate hands-on tutorial for understanding the internal mechanics of a Transformer by building a mini-GPT from scratch.
+    * [**Let's build the GPT Tokenizer**](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ0) - The sister video to the series, building a BPE tokenizer from scratch and completing the most fundamental piece of the LLM puzzle.
+* [**Sebastian Raschka - Build an LLM From Scratch**](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ1) - The official video tutorial from the author of "LLMs from Scratch," explaining the complete process of building a small LLM in a solid, systematic way.
 
 ### Concepts & Theory
 
-* [**Andrej Karpathy - The State of GPT**](https://www.youtube.com/watch?v=mMa2PmYJlCo5) - Karpathy personally explains the current state of GPT development, training techniques, and future trends. An excellent lecture for a high-level view.
-* [**Jay Alammar's YouTube Channel**](https://www.youtube.com/watch?v=mMa2PmYJlCo6) - The official channel of the author of "The Illustrated Transformer," turning his famous illustrated blog posts into videos.
-* [**3Blue1Brown - Attention in Transformers, visually explained**](https://www.youtube.com/watch?v=mMa2PmYJlCo7) - A visual explanation of the attention mechanism. If you're confused by matrix operations and multi-head attention, this video will bring clarity.
-* [**Yannic Kilcher's YouTube Channel**](https://www.youtube.com/watch?v=mMa2PmYJlCo8) - Known for his in-depth explanations of the latest and most important AI papers. He walks you through papers line-by-line to understand their motivation and innovation.
+* [**Andrej Karpathy - The State of GPT**](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ2) - Karpathy personally explains the current state of GPT development, training techniques, and future trends. An excellent lecture for a high-level view.
+* [**Jay Alammar's YouTube Channel**](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ3) - The official channel of the author of "The Illustrated Transformer," turning his famous illustrated blog posts into videos.
+* [**3Blue1Brown - Attention in Transformers, visually explained**](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ4) - A visual explanation of the attention mechanism. If you're confused by matrix operations and multi-head attention, this video will bring clarity.
+* [**Yannic Kilcher's YouTube Channel**](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ5) - Known for his in-depth explanations of the latest and most important AI papers. He walks you through papers line-by-line to understand their motivation and innovation.
 
 ### Conferences & Lectures
 
